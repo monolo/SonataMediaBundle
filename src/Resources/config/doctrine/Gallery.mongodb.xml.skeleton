@@ -12,6 +12,6 @@
             association mapping  : http://www.doctrine-project.org/projects/orm/2.0/docs/reference/association-mapping/en
     -->
     <document name="{{ namespace }}\Document\Gallery" >
-        <field fieldName="id" id="true" />
+        <field id="true" />
     </document>
 </doctrine-mongo-mapping>
